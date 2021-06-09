@@ -53,19 +53,6 @@
       <recent name="C:\Users\bitcamp\Documents\HTMLStudy\src\a\main\img" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -79,6 +66,7 @@
       <workItem from="1623214756140" duration="10755000" />
       <workItem from="1623245736817" duration="15000" />
       <workItem from="1623245817802" duration="624000" />
+      <workItem from="1623250530902" duration="1573000" />
     </task>
     <servers />
   </component>
