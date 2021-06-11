@@ -21,6 +21,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1tlAMqljBXfoNLmqNCWHpwInMsg" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,16 +34,17 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/13/img" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\whdtj\HTMLStudy\src\13\img" />
       <recent name="C:\Users\whdtj\HTMLStudy\src\11" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -74,7 +78,7 @@
       <updated>1623333260240</updated>
       <workItem from="1623333265680" duration="25000" />
       <workItem from="1623371941665" duration="13135000" />
-      <workItem from="1623395513664" duration="5108000" />
+      <workItem from="1623395513664" duration="6112000" />
     </task>
     <servers />
   </component>
