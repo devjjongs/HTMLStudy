@@ -3,6 +3,134 @@
   <component name="ChangeListManager">
     <list default="true" id="0e8c03a6-f9c5-474b-8b67-c8f0fa2d2280" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/04/audio-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/04/css/poster.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/04/images/link.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/04/images/mic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/04/images/salad.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/04/images/tangerines.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/04/images/top.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/04/medias/flight.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/04/medias/flower.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/04/medias/salad.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/04/medias/spring.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/10/States_pseudo-classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/10/ps-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/10/pseudo-classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/11/css/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/11/css/product-result.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/11/css/product.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/11/images/bear.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/11/images/prod1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/11/images/prod2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/11/images/prod3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/11/images/sunset.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/11/images/tree.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/11/translate.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/12/banner.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/12/common.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/12/customer_notice_faq.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/12/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/12/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/12/html5_layout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/12/img/address.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/12/img/b.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/12/img/banner01.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/12/img/banner02.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/12/img/banner03.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/12/img/banner_bar.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/12/img/banner_faq.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/12/img/blue_dot.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/12/img/cal.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/12/img/customer.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/12/img/customer_phone.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/12/img/f.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/12/img/faq.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/12/img/logo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/12/img/menu01.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/12/img/menu02.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/12/img/menu03.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/12/img/menu04.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/12/img/menu05.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/12/img/more.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/12/img/moto.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/12/img/notice.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/12/img/phonenum.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/12/img/t.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/12/img/title_customer.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/12/img/title_notice.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/12/img/title_product_intro.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/12/sample_site.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/12/sitemap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/address.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/blue_dot.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/btn_buy_now.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/btn_cart.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/btn_next.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/btn_pre.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/btn_search.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/btn_show_big.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/children.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/children_img1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/children_img2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/customer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/footer_banner_01.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/footer_banner_02.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/footer_logo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/landscape.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/landscape_img1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/landscape_img2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/latest_notice.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/logo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/main_img.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/menu01.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/menu02.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/menu03.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/menu04.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/menu05.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/new_01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/new_02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/new_03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/new_04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/new_05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/new_06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/new_07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/new_08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/order_button1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/order_button2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/order_button3.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/order_button4.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/order_button5.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/order_button6.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/point_wallpaper.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/point_wallpaper_img1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/point_wallpaper_img2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/process.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/product_img.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/special_img1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/special_img2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/special_shop.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/week_event.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/img/week_event_img.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/study_source/a.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/endtag.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/study_source/endtag.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/overlap.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/study_source/overlap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prac_table1.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/study_source/prac_table1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prac_tag_OL.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/study_source/prac_tag_OL.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prac_tag_dl.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/study_source/prac_tag_dl.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prac_tag_ul.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/study_source/prac_tag_ul.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prac_texttag.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/study_source/prac_texttag.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/red.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/study_source/red.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redsalada.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/study_source/redsalada.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/table.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/study_source/table.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/table1.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/study_source/table1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/table1_prac.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/study_source/table1_prac.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/table2.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/study_source/table2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/table2_prac.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/study_source/table2_prac.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/table3_prac.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/study_source/table3_prac.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/study_source/test.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +148,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1tlAMqljBXfoNLmqNCWHpwInMsg" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -34,7 +170,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/13/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/mini/img" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -44,25 +180,27 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\whdtj\HTMLStudy\src\mini\img" />
+      <recent name="C:\Users\whdtj\HTMLStudy\src\study_source" />
       <recent name="C:\Users\whdtj\HTMLStudy\src\13\img" />
       <recent name="C:\Users\whdtj\HTMLStudy\src\11" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\whdtj\HTMLStudy\src\mini\img" />
+      <recent name="C:\Users\whdtj\HTMLStudy\src\mini" />
+      <recent name="C:\Users\whdtj\HTMLStudy\src\study_source" />
       <recent name="C:\Users\whdtj\HTMLStudy\src\12" />
       <recent name="C:\Users\whdtj\HTMLStudy\src\12\img" />
-      <recent name="C:\Users\whdtj\HTMLStudy\src\11" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -78,11 +216,24 @@
       <updated>1623333260240</updated>
       <workItem from="1623333265680" duration="25000" />
       <workItem from="1623371941665" duration="13135000" />
-      <workItem from="1623395513664" duration="6112000" />
+      <workItem from="1623395513664" duration="7121000" />
+      <workItem from="1623680941541" duration="594000" />
+      <workItem from="1623723568038" duration="26561000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
