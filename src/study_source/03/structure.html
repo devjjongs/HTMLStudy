@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+	<meta charset="UTF-8">
+	<title>Dream Jeju</title>
+	<link rel="stylesheet" href="css/structure.css">
+</head>
+<body>
+	<div id="container">
+		<header>    <!-- 헤더 영역 시작 : 검색 창이나 사이트 메뉴 삽입 / 사이트 전체의 헤더 or 특정 영역의 헤더-->
+			<div id="logo"> <!-- 로고 영역 시작 -->
+				<a href="#">
+					<h1>Dream Jeju</h1>
+				</a>
+			</div>  <!-- 로고 영역 종료 -->
+			<nav>   <!-- 내비게이션 영역 시작 : 웹 문서 위치에 영향을 받지 않음 / 문서 안에 id로 구분하여 중복 생성 가능 -->
+				<ul id="topMenu">   <!-- 번호 없는 목록 -->
+					<li><a href="#">단체 여행</a></li>
+					<li><a href="#">맞춤 여행</a></li>
+					<li><a href="#">갤러리</a></li>
+					<li><a href="#">문의하기</a></li>
+				</ul>
+			</nav>  <!-- 내비게이션 영역 종료 -->
+		</header>   <!-- 헤더 영역 종료 -->
+		<main class="contents"> <!-- 본문 영역 시작 : 웹 문서의 핵심 내용 / 웹 문서마다 다른 내용으로 구성 / 웹 문서에서 한 번만 사용 -->
+			<section id="headling"> <!-- 태그 영역1 시작 : 콘텐츠 영역 / 몇 개으 ㅣ콘텐츠를 묶는 용도로 사용 / css 적용을 위해 묶는 용도로 사용X -->
+				<h2>몸과 마음이 치유되는 섬</h2>
+				<div class="detail">
+					<img src="images/healing.jpg">
+					<b><p>쉼(Healing)의 공간으로 안내합니다</p></b>
+					<p>탁 트인 바다, 시원한 바람에 몸을 맡기고 뚜벅뚜벅 오름을 오르고 올랫길을 걷다보면 온전히 나에게 집중할 수 있습니다.</p>
+				</div>
+				<div class="schedule">
+					<h3>상세 일정</h3>
+					<ul>
+						<li>여행 기간 : 2박 3일</li>
+						<li>여행 일정 : (여행 일정은 상담을 통해 결정 및 조정 가능합니다)</li>
+					</ul>
+				</div>
+			</section>  <!-- 태그 영역1 종료 -->
+			<section id="activity"> <!-- 태그 영역2 시작 -->
+				<h2>다양한 엑티비티가 기다리는 섬</h2>
+				<div class="detail">
+					<img src="images/activity.jpg">
+					<b><p>모험과 스릴이 넘치는 레저의 천국으로 안내합니다.</p></b>
+					<p>둘러보기만 하는 여행을 하셨나요?</p>
+					<p>하늘을 날며 시원한 바다를 내려다보는 패러글라이딩과 투명한 물빛 속을 여행하는 스킨스쿠버, 아름다운 제주 해안도로를 쌩쌩 전동바이크나 전동킥보드로 달려보세요. 시원한 바다를
+						가까이에서 느낄 수 있는 요트 체험과 배낚시도 빼놓을 수 없겠죠?</p>
+				</div>
+			</section>  <!-- 태그 영역2 종료 -->
+		</main> <!-- 본문 영역 종료 -->
+		<footer>    <!-- 푸터 영역 시작 : 사이트 제작 정보나 저작권 정보, 연락처 등 / 다른 시맨틱 태그를 사용해 다양한 정보를 포함-->
+			<div id="bottomMenu">   <!-- div 영역 시작 : 소스를 묶는 용도 / 영역 구별 또는 스타일 적용을 위해 사용 -->
+				<ul>
+					<li><a href="#">회사 소개</a></li>
+					<li><a href="#">개인정보처리방침</a></li>
+					<li><a href="#">여행약관</a></li>
+					<li><a href="#">사이트맵</a></li>
+				</ul>
+			</div>  <!-- div 영역 종료 -->
+		</footer>   <!-- 푸터 영역 종료 -->
+	</div>
+</body>
+</html>
