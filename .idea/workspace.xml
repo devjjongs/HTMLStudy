@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0e8c03a6-f9c5-474b-8b67-c8f0fa2d2280" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mini/12.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/mini/12.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -42,29 +43,46 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/mini/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/mini/14/css" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bitcamp\Documents\HTMLStudy\src\mini\14\css" />
+      <recent name="C:\Users\bitcamp\Documents\HTMLStudy\src\mini\14" />
+      <recent name="C:\Users\bitcamp\Documents\HTMLStudy\src\study_source" />
+      <recent name="C:\Users\bitcamp\Documents\HTMLStudy\src" />
       <recent name="C:\Users\whdtj\HTMLStudy\src\mini\img" />
-      <recent name="C:\Users\whdtj\HTMLStudy\src\study_source" />
-      <recent name="C:\Users\whdtj\HTMLStudy\src\13\img" />
-      <recent name="C:\Users\whdtj\HTMLStudy\src\11" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bitcamp\Documents\HTMLStudy\src\mini\14\img" />
       <recent name="C:\Users\whdtj\HTMLStudy\src\mini\img" />
       <recent name="C:\Users\whdtj\HTMLStudy\src\mini" />
       <recent name="C:\Users\whdtj\HTMLStudy\src\study_source" />
       <recent name="C:\Users\whdtj\HTMLStudy\src\12" />
-      <recent name="C:\Users\whdtj\HTMLStudy\src\12\img" />
     </key>
   </component>
+<<<<<<< HEAD
+=======
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+>>>>>>> 57ba64b2ef50b6db2abfe3fa4fd31d305d5295c7
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -78,7 +96,15 @@
       <workItem from="1623395513664" duration="7121000" />
       <workItem from="1623680941541" duration="594000" />
       <workItem from="1623723568038" duration="27215000" />
+<<<<<<< HEAD
       <workItem from="1623825091811" duration="10886000" />
+=======
+      <workItem from="1623825091811" duration="10828000" />
+      <workItem from="1623891738909" duration="114000" />
+      <workItem from="1623891871866" duration="10172000" />
+      <workItem from="1623904741938" duration="8105000" />
+      <workItem from="1623915987955" duration="4974000" />
+>>>>>>> 57ba64b2ef50b6db2abfe3fa4fd31d305d5295c7
     </task>
     <servers />
   </component>
