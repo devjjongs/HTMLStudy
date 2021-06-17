@@ -3,6 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="0e8c03a6-f9c5-474b-8b67-c8f0fa2d2280" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mini/11.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/mini/11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mini/14/board_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/mini/14/board_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mini/14/board_view.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/mini/14/board_view.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mini/14/board_write.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/mini/14/board_write.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mini/14/css/board_list_main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/mini/14/css/board_list_main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mini/14/css/board_view_main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/mini/14/css/board_view_main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mini/14/css/board_write_main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/mini/14/css/board_write_main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mini/14/css/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/mini/14/css/common.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mini/14/css/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/mini/14/css/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mini/14/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/mini/14/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mini/14/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/mini/14/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +53,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/study_source" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/mini/14/css" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -52,11 +63,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bitcamp\Documents\HTMLStudy\src\mini\14\css" />
+      <recent name="C:\Users\bitcamp\Documents\HTMLStudy\src\mini\14" />
       <recent name="C:\Users\bitcamp\Documents\HTMLStudy\src\study_source" />
       <recent name="C:\Users\bitcamp\Documents\HTMLStudy\src" />
       <recent name="C:\Users\whdtj\HTMLStudy\src\mini\img" />
-      <recent name="C:\Users\whdtj\HTMLStudy\src\study_source" />
-      <recent name="C:\Users\whdtj\HTMLStudy\src\13\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\bitcamp\Documents\HTMLStudy\src\mini\14\img" />
@@ -97,6 +108,7 @@
       <workItem from="1623825091811" duration="10828000" />
       <workItem from="1623891738909" duration="114000" />
       <workItem from="1623891871866" duration="10172000" />
+      <workItem from="1623904741938" duration="7636000" />
     </task>
     <servers />
   </component>
