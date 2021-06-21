@@ -1,0 +1,208 @@
+/* common.css*/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "맑은 고딕", "돋움";
+    font-size: 12px;
+    color: #444444;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.clear {
+    clear: both;
+}
+
+/* common.css*/
+/*
+*/
+/* header css */
+#page {
+    width: 980px;
+    margin: 0 auto;
+}
+
+header #logo {
+    float: left;
+    margin: 15px 0 0 20px;
+}
+
+header #moto {
+    float: left;
+    margin: 45px 0 0 20px;
+}
+
+header #top_menu {
+    float: right;
+    margin: 50px 0 0 0;
+}
+
+header #top_menu li {
+    display: inline;
+}
+
+.line {
+    margin-top: 25px;
+    border-top: solid 1px #cccccc;
+}
+
+header nav ul {
+    margin-top: 25px;
+}
+
+header nav li {
+    display: inline;
+}
+
+header nav li.item {
+    margin-left: 40px;
+}
+
+/* header css */
+/*
+*/
+/* main css */
+aside {
+    float: left;
+    margin-left: 5px;
+}
+
+aside h3 {
+    width: 158px;
+    border-bottom: solid 3px #00a7aa;
+    margin-bottom: 10px;
+}
+
+aside ul li {
+    border-bottom: solid 1px #bbbbbb;
+    padding-bottom: 5px;
+}
+
+section {
+    margin-left: 25px;
+    float: left;
+}
+
+.selected {
+    background-color: #00a7aa;
+    color: white;
+}
+
+.col1, .col2 {
+    float: left;
+    padding: 13px 0;
+}
+
+.col1 {
+    margin-left: 10px;
+}
+
+.col2 {
+    float: right;
+    margin-right: 10px;
+}
+
+main {
+    border-bottom: solid 3px #00a7aa;
+    margin: 0 auto;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    width: 980px;
+    vertical-align: center;
+}
+
+#customer {
+    margin-top: 30px;
+}
+
+#sub_img {
+    padding-bottom: 20px;
+}
+
+.product h3, .product div.btns {
+    float: left;
+}
+
+.product {
+    border-top: solid 3px #00a7aa;
+    padding: 15px 0 10px 5px;
+}
+
+.product ul {
+    margin-top: 10px;
+    padding-left: 5px;
+}
+
+.product li {
+    line-height: 20px;
+}
+
+}
+.btns {
+    margin-left: 20px;
+}
+
+/* main css */
+/*
+*/
+/* footer css*/
+#fpage {
+    width: 980px;
+    margin: 0 auto;
+}
+
+footer {
+    padding: 20px 0 0 15px;
+    border-top: solid 3px #06b5b3;
+    color: #666666;
+}
+
+footer #address {
+    float: left;
+}
+
+footer #link {
+    float: right;
+}
+
+footer #footer_menu li {
+    margin-top: 5px;
+}
+
+footer #company_info {
+    margin-top: 20px;
+}
+
+footer #company_info li {
+    margin-top: 2px;
+}
+
+footer #copyright {
+    margin-top: 10px;
+    font-size: 11px;
+    color: #888888;
+}
+
+footer #link h3 {
+    font-size: 16px;
+    color: #06b5b8
+}
+
+footer #link select {
+    margin: 5px 0 0 50px;
+    width: 100px;
+    height: 18px;
+    font-size: 11px;
+}
+
+footer #icons {
+    margin-top: 5px;
+    text-align: right;
+}
+
+/* footer css*/
